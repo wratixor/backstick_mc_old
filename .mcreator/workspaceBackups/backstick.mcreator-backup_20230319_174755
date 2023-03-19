@@ -359,7 +359,7 @@
       "type": "item",
       "sortid": 8,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_wood",
       "metadata": {
         "files": [
@@ -374,7 +374,7 @@
       "type": "item",
       "sortid": 9,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_copper",
       "metadata": {
         "files": [

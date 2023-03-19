@@ -359,7 +359,7 @@
       "type": "item",
       "sortid": 8,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_wood",
       "metadata": {
         "files": [
@@ -374,7 +374,7 @@
       "type": "item",
       "sortid": 9,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_copper",
       "metadata": {
         "files": [
@@ -389,7 +389,7 @@
       "type": "item",
       "sortid": 10,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_stone",
       "metadata": {
         "files": [
@@ -404,7 +404,7 @@
       "type": "item",
       "sortid": 11,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_iron",
       "metadata": {
         "files": [
@@ -419,7 +419,7 @@
       "type": "item",
       "sortid": 12,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_gold",
       "metadata": {
         "files": [
@@ -434,7 +434,7 @@
       "type": "item",
       "sortid": 13,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_diamond",
       "metadata": {
         "files": [
@@ -449,7 +449,7 @@
       "type": "item",
       "sortid": 14,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_breacker_netherite",
       "metadata": {
         "files": [
@@ -618,7 +618,7 @@
       "type": "item",
       "sortid": 15,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_wood",
       "metadata": {
         "files": [
@@ -633,7 +633,7 @@
       "type": "item",
       "sortid": 16,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_stone",
       "metadata": {
         "files": [
@@ -648,7 +648,7 @@
       "type": "item",
       "sortid": 17,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_copper",
       "metadata": {
         "files": [
@@ -663,7 +663,7 @@
       "type": "item",
       "sortid": 18,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_iron",
       "metadata": {
         "files": [
@@ -678,7 +678,7 @@
       "type": "item",
       "sortid": 19,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_gold",
       "metadata": {
         "files": [
@@ -693,7 +693,7 @@
       "type": "item",
       "sortid": 20,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_diamond",
       "metadata": {
         "files": [
@@ -708,7 +708,7 @@
       "type": "item",
       "sortid": 21,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_engraver_netherite",
       "metadata": {
         "files": [
@@ -737,7 +737,7 @@
       "type": "item",
       "sortid": 22,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_wood",
       "metadata": {
         "files": [
@@ -752,7 +752,7 @@
       "type": "item",
       "sortid": 23,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_stone",
       "metadata": {
         "files": [
@@ -767,7 +767,7 @@
       "type": "item",
       "sortid": 24,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_copper",
       "metadata": {
         "files": [
@@ -782,7 +782,7 @@
       "type": "item",
       "sortid": 25,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_iron",
       "metadata": {
         "files": [
@@ -797,7 +797,7 @@
       "type": "item",
       "sortid": 26,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_gold",
       "metadata": {
         "files": [
@@ -812,7 +812,7 @@
       "type": "item",
       "sortid": 27,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_diamond",
       "metadata": {
         "files": [
@@ -827,7 +827,7 @@
       "type": "item",
       "sortid": 28,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "back_mutator_netherite",
       "metadata": {
         "files": [
@@ -1501,8 +1501,8 @@
   "language_map": {
     "en_us": {
       "item.backstick.back_mutator_gold": "Back Mutator Gold",
-      "item.backstick.back_breacker_wood": "Back Breacker Wood",
       "item.backstick.back_engraver_iron": "Back Engraver Iron",
+      "item.backstick.back_breacker_wood": "Back Breacker Wood",
       "item.backstick.iron_back_stick": "Iron Back Stick",
       "item.backstick.back_engraver_netherite": "Back Engraver Netherite",
       "item.backstick.back_engraver_diamond": "Back Engraver Diamond",
@@ -1565,15 +1565,19 @@
       {
         "name": "mutators",
         "children": []
+      },
+      {
+        "name": "procedure",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "backstick",
     "modName": "BackStick",
-    "version": "1.0.1",
-    "description": "I just wanted to make a simple special item for my recipes in CraftTweaker... and couldn\u0027t stop in time.",
-    "author": "Wratixor, MCreator",
+    "version": "1.0.2",
+    "description": "BackStick (named after backslash) contains 4 new items and 7 levels of development for each: wood, stone, copper, iron, gold, diamond and netherite. Source - https://github.com/wratixor/backstick",
+    "author": "Wratixor",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/backstick",
     "license": "MIT License",
     "disableForgeVersionCheck": true,
@@ -1584,7 +1588,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "BackStick (like back slash \\) contains 4 new items (and 7 levels of development for each: wood, stone, copper, iron, gold, diamond and netherite): BackStick -- material for crafting the rest of the items and a tweak of torches (a golden BackStick will give 64 torches from one coal) BackBreacker -- item for breaking craft (cobblestone to gravel, wool to string, terracotta to bricks, etc.) BackMutator -- item for mutating crafting (rotten flesh to leather, colored wool to white whool, any heads to other head, diamond + emerald to bottle o\u0027 enchanting, etc.) BackGravier -- item for engraving / milling crafting (two logs in a chest, 8 blocks of bones in a skull, etc.) P.S. BackBreacker\u0027s, BackMutator\u0027s and BackGravier\u0027s consume durability, not amount, to craft. P.P.S. The recipes from the examples are already in the mod, as are some others. It is recommended to use  CraftTweaker for all the crafting that you are missing, or disable extra recipes...as originally intended... but CT is not required for this mod to work. Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "MCreator",
     "modElementsPackage": "wratixor.backstick",
     "lockBaseModFiles": false
   },
