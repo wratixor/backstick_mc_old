@@ -1565,6 +1565,10 @@
       {
         "name": "mutators",
         "children": []
+      },
+      {
+        "name": "procedure",
+        "children": []
       }
     ]
   },
@@ -1575,9 +1579,10 @@
     "description": "I just wanted to make a simple special item for my recipes in CraftTweaker... and couldn\u0027t stop in time.",
     "author": "Wratixor, MCreator",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/backstick",
-    "license": "Academic Free License v3.0",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

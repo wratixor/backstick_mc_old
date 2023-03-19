@@ -9,8 +9,8 @@
       "registry_name": "back_stick",
       "metadata": {
         "files": [
-          "src/main/resources/assets/backstick/models/item/back_stick.json",
-          "src/main/java/net/mcreator/backstick/item/BackStickItem.java"
+          "src/main/java/wratixor/backstick/item/BackStickItem.java",
+          "src/main/resources/assets/backstick/models/item/back_stick.json"
         ]
       },
       "path": "~/sticks"
@@ -52,8 +52,8 @@
       "registry_name": "stone_back_stick",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/StoneBackStickItem.java",
-          "src/main/resources/assets/backstick/models/item/stone_back_stick.json"
+          "src/main/resources/assets/backstick/models/item/stone_back_stick.json",
+          "src/main/java/wratixor/backstick/item/StoneBackStickItem.java"
         ]
       },
       "path": "~/sticks"
@@ -96,7 +96,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/copper_back_stick.json",
-          "src/main/java/net/mcreator/backstick/item/CopperBackStickItem.java"
+          "src/main/java/wratixor/backstick/item/CopperBackStickItem.java"
         ]
       },
       "path": "~/sticks"
@@ -125,7 +125,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/iron_back_stick.json",
-          "src/main/java/net/mcreator/backstick/item/IronBackStickItem.java"
+          "src/main/java/wratixor/backstick/item/IronBackStickItem.java"
         ]
       },
       "path": "~/sticks"
@@ -153,7 +153,7 @@
       "registry_name": "gold_back_stick",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/GoldBackStickItem.java",
+          "src/main/java/wratixor/backstick/item/GoldBackStickItem.java",
           "src/main/resources/assets/backstick/models/item/gold_back_stick.json"
         ]
       },
@@ -182,7 +182,7 @@
       "registry_name": "diamond_back_stick",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/DiamondBackStickItem.java",
+          "src/main/java/wratixor/backstick/item/DiamondBackStickItem.java",
           "src/main/resources/assets/backstick/models/item/diamond_back_stick.json"
         ]
       },
@@ -211,7 +211,7 @@
       "registry_name": "netherite_back_stick",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/NetheriteBackStickItem.java",
+          "src/main/java/wratixor/backstick/item/NetheriteBackStickItem.java",
           "src/main/resources/assets/backstick/models/item/netherite_back_stick.json"
         ]
       },
@@ -363,7 +363,7 @@
       "registry_name": "back_breacker_wood",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackBreackerWoodItem.java",
+          "src/main/java/wratixor/backstick/item/BackBreackerWoodItem.java",
           "src/main/resources/assets/backstick/models/item/back_breacker_wood.json"
         ]
       },
@@ -378,7 +378,7 @@
       "registry_name": "back_breacker_copper",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackBreackerCopperItem.java",
+          "src/main/java/wratixor/backstick/item/BackBreackerCopperItem.java",
           "src/main/resources/assets/backstick/models/item/back_breacker_copper.json"
         ]
       },
@@ -394,7 +394,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_breacker_stone.json",
-          "src/main/java/net/mcreator/backstick/item/BackBreackerStoneItem.java"
+          "src/main/java/wratixor/backstick/item/BackBreackerStoneItem.java"
         ]
       },
       "path": "~/breackers"
@@ -409,7 +409,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_breacker_iron.json",
-          "src/main/java/net/mcreator/backstick/item/BackBreackerIronItem.java"
+          "src/main/java/wratixor/backstick/item/BackBreackerIronItem.java"
         ]
       },
       "path": "~/breackers"
@@ -423,8 +423,8 @@
       "registry_name": "back_breacker_gold",
       "metadata": {
         "files": [
-          "src/main/resources/assets/backstick/models/item/back_breacker_gold.json",
-          "src/main/java/net/mcreator/backstick/item/BackBreackerGoldItem.java"
+          "src/main/java/wratixor/backstick/item/BackBreackerGoldItem.java",
+          "src/main/resources/assets/backstick/models/item/back_breacker_gold.json"
         ]
       },
       "path": "~/breackers"
@@ -438,8 +438,8 @@
       "registry_name": "back_breacker_diamond",
       "metadata": {
         "files": [
-          "src/main/resources/assets/backstick/models/item/back_breacker_diamond.json",
-          "src/main/java/net/mcreator/backstick/item/BackBreackerDiamondItem.java"
+          "src/main/java/wratixor/backstick/item/BackBreackerDiamondItem.java",
+          "src/main/resources/assets/backstick/models/item/back_breacker_diamond.json"
         ]
       },
       "path": "~/breackers"
@@ -454,7 +454,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_breacker_netherite.json",
-          "src/main/java/net/mcreator/backstick/item/BackBreackerNetheriteItem.java"
+          "src/main/java/wratixor/backstick/item/BackBreackerNetheriteItem.java"
         ]
       },
       "path": "~/breackers"
@@ -622,7 +622,7 @@
       "registry_name": "back_engraver_wood",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackEngraverWoodItem.java",
+          "src/main/java/wratixor/backstick/item/BackEngraverWoodItem.java",
           "src/main/resources/assets/backstick/models/item/back_engraver_wood.json"
         ]
       },
@@ -638,7 +638,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_engraver_stone.json",
-          "src/main/java/net/mcreator/backstick/item/BackEngraverStoneItem.java"
+          "src/main/java/wratixor/backstick/item/BackEngraverStoneItem.java"
         ]
       },
       "path": "~/engravers"
@@ -653,7 +653,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_engraver_copper.json",
-          "src/main/java/net/mcreator/backstick/item/BackEngraverCopperItem.java"
+          "src/main/java/wratixor/backstick/item/BackEngraverCopperItem.java"
         ]
       },
       "path": "~/engravers"
@@ -667,8 +667,8 @@
       "registry_name": "back_engraver_iron",
       "metadata": {
         "files": [
-          "src/main/resources/assets/backstick/models/item/back_engraver_iron.json",
-          "src/main/java/net/mcreator/backstick/item/BackEngraverIronItem.java"
+          "src/main/java/wratixor/backstick/item/BackEngraverIronItem.java",
+          "src/main/resources/assets/backstick/models/item/back_engraver_iron.json"
         ]
       },
       "path": "~/engravers"
@@ -682,8 +682,8 @@
       "registry_name": "back_engraver_gold",
       "metadata": {
         "files": [
-          "src/main/resources/assets/backstick/models/item/back_engraver_gold.json",
-          "src/main/java/net/mcreator/backstick/item/BackEngraverGoldItem.java"
+          "src/main/java/wratixor/backstick/item/BackEngraverGoldItem.java",
+          "src/main/resources/assets/backstick/models/item/back_engraver_gold.json"
         ]
       },
       "path": "~/engravers"
@@ -697,7 +697,7 @@
       "registry_name": "back_engraver_diamond",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackEngraverDiamondItem.java",
+          "src/main/java/wratixor/backstick/item/BackEngraverDiamondItem.java",
           "src/main/resources/assets/backstick/models/item/back_engraver_diamond.json"
         ]
       },
@@ -712,7 +712,7 @@
       "registry_name": "back_engraver_netherite",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackEngraverNetheriteItem.java",
+          "src/main/java/wratixor/backstick/item/BackEngraverNetheriteItem.java",
           "src/main/resources/assets/backstick/models/item/back_engraver_netherite.json"
         ]
       },
@@ -742,7 +742,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_mutator_wood.json",
-          "src/main/java/net/mcreator/backstick/item/BackMutatorWoodItem.java"
+          "src/main/java/wratixor/backstick/item/BackMutatorWoodItem.java"
         ]
       },
       "path": "~/mutators"
@@ -757,7 +757,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_mutator_stone.json",
-          "src/main/java/net/mcreator/backstick/item/BackMutatorStoneItem.java"
+          "src/main/java/wratixor/backstick/item/BackMutatorStoneItem.java"
         ]
       },
       "path": "~/mutators"
@@ -771,8 +771,8 @@
       "registry_name": "back_mutator_copper",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackMutatorCopperItem.java",
-          "src/main/resources/assets/backstick/models/item/back_mutator_copper.json"
+          "src/main/resources/assets/backstick/models/item/back_mutator_copper.json",
+          "src/main/java/wratixor/backstick/item/BackMutatorCopperItem.java"
         ]
       },
       "path": "~/mutators"
@@ -787,7 +787,7 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/backstick/models/item/back_mutator_iron.json",
-          "src/main/java/net/mcreator/backstick/item/BackMutatorIronItem.java"
+          "src/main/java/wratixor/backstick/item/BackMutatorIronItem.java"
         ]
       },
       "path": "~/mutators"
@@ -801,7 +801,7 @@
       "registry_name": "back_mutator_gold",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackMutatorGoldItem.java",
+          "src/main/java/wratixor/backstick/item/BackMutatorGoldItem.java",
           "src/main/resources/assets/backstick/models/item/back_mutator_gold.json"
         ]
       },
@@ -816,7 +816,7 @@
       "registry_name": "back_mutator_diamond",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackMutatorDiamondItem.java",
+          "src/main/java/wratixor/backstick/item/BackMutatorDiamondItem.java",
           "src/main/resources/assets/backstick/models/item/back_mutator_diamond.json"
         ]
       },
@@ -831,7 +831,7 @@
       "registry_name": "back_mutator_netherite",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/backstick/item/BackMutatorNetheriteItem.java",
+          "src/main/java/wratixor/backstick/item/BackMutatorNetheriteItem.java",
           "src/main/resources/assets/backstick/models/item/back_mutator_netherite.json"
         ]
       },
@@ -1501,8 +1501,8 @@
   "language_map": {
     "en_us": {
       "item.backstick.back_mutator_gold": "Back Mutator Gold",
-      "item.backstick.back_breacker_wood": "Back Breacker Wood",
       "item.backstick.back_engraver_iron": "Back Engraver Iron",
+      "item.backstick.back_breacker_wood": "Back Breacker Wood",
       "item.backstick.iron_back_stick": "Iron Back Stick",
       "item.backstick.back_engraver_netherite": "Back Engraver Netherite",
       "item.backstick.back_engraver_diamond": "Back Engraver Diamond",
@@ -1565,25 +1565,31 @@
       {
         "name": "mutators",
         "children": []
+      },
+      {
+        "name": "procedure",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "backstick",
     "modName": "BackStick",
-    "version": "1.0.0",
-    "author": "Vasilii.Ivanov, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.0.1",
+    "description": "I just wanted to make a simple special item for my recipes in CraftTweaker... and couldn\u0027t stop in time. BackStick (named after backslash) contains 4 new items (and 7 levels of development for each: wood, stone, copper, iron, gold, diamond and netherite): BackStick -- material for crafting the rest of the items and a tweak of torches (a golden BackStick will give 64 torches from one coal) BackBreacker -- item for breaking craft (cobblestone to gravel, wool to string, terracotta to bricks, etc.) BackMutator -- item for mutating crafting (rotten flesh to leather, colored wool to white whool, any heads to other head, diamond + emerald to bottle o\u0027 enchanting, etc.) BackGravier -- item for engraving / milling crafting (two logs in a chest, 8 blocks of bones in a skull, etc.) See more - https://www.curseforge.com/minecraft/mc-mods/backstick Source - https://github.com/wratixor/backstick Created using mod maker MCreator - https://mcreator.net/about",
+    "author": "Wratixor, MCreator",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/backstick",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.backstick",
+    "credits": "Wratixor, MCreator",
+    "modElementsPackage": "wratixor.backstick",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202300110610

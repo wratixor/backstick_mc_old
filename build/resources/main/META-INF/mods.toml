@@ -4,14 +4,14 @@ license="MIT License"
 
 [[mods]]
 modId="backstick"
-version="1.0.1"
+version="1.0.2"
 displayName="BackStick"
-credits="BackStick (like back slash \) contains 4 new items (and 7 levels of development for each: wood, stone, copper, iron, gold, diamond and netherite): BackStick -- material for crafting the rest of the items and a tweak of torches (a golden BackStick will give 64 torches from one coal) BackBreacker -- item for breaking craft (cobblestone to gravel, wool to string, terracotta to bricks, etc.) BackMutator -- item for mutating crafting (rotten flesh to leather, colored wool to white whool, any heads to other head, diamond + emerald to bottle o' enchanting, etc.) BackGravier -- item for engraving / milling crafting (two logs in a chest, 8 blocks of bones in a skull, etc.) P.S. BackBreacker's, BackMutator's and BackGravier's consume durability, not amount, to craft. P.P.S. The recipes from the examples are already in the mod, as are some others. It is recommended to use  CraftTweaker for all the crafting that you are missing, or disable extra recipes...as originally intended... but CT is not required for this mod to work. Created using mod maker MCreator - https://mcreator.net/about"
+credits="MCreator"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/backstick"
 logoFile="logo.png"
-authors="Wratixor, MCreator"
+authors="Wratixor"
 description='''
-I just wanted to make a simple special item for my recipes in CraftTweaker... and couldn't stop in time.
+BackStick (named after backslash) contains 4 new items and 7 levels of development for each: wood, stone, copper, iron, gold, diamond and netherite. Source - https://github.com/wratixor/backstick
 '''
 
 [[dependencies.backstick]]
