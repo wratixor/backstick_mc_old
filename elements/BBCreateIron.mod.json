@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IronBackStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IronBackStick"
+      },
+      {
+        "value": "CUSTOM:IronBackStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BackBreackerIron"
+    },
+    "name": "bb_create_iron",
+    "namespace": "mod"
+  }
+}

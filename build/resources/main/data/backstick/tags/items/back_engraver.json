@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "backstick:back_engraver_wood",
+    "backstick:back_engraver_iron",
+    "backstick:back_engraver_netherite",
+    "backstick:back_engraver_copper",
+    "backstick:back_engraver_diamond",
+    "backstick:back_engraver_gold",
+    "backstick:back_engraver_stone"
+  ]
+}

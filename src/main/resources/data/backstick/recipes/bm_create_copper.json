@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "backstick:copper_back_stick"
+    },
+    "3": {
+      "item": "backstick:copper_back_stick"
+    },
+    "4": {
+      "item": "minecraft:copper_ingot"
+    },
+    "5": {
+      "item": "backstick:copper_back_stick"
+    },
+    "7": {
+      "item": "backstick:copper_back_stick"
+    }
+  },
+  "result": {
+    "item": "backstick:back_mutator_copper",
+    "count": 1
+  }
+}

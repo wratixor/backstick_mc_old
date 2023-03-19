@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BackMutatorWood"
+      },
+      {
+        "value": "CUSTOM:BackMutatorStone"
+      },
+      {
+        "value": "CUSTOM:BackMutatorCopper"
+      },
+      {
+        "value": "CUSTOM:BackMutatorIron"
+      },
+      {
+        "value": "CUSTOM:BackMutatorGold"
+      },
+      {
+        "value": "CUSTOM:BackMutatorDiamond"
+      },
+      {
+        "value": "CUSTOM:BackMutatorNetherite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "back_mutator",
+    "namespace": "mod"
+  }
+}

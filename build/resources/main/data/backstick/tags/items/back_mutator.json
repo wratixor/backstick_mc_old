@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "backstick:back_mutator_stone",
+    "backstick:back_mutator_iron",
+    "backstick:back_mutator_diamond",
+    "backstick:back_mutator_netherite",
+    "backstick:back_mutator_wood",
+    "backstick:back_mutator_copper",
+    "backstick:back_mutator_gold"
+  ]
+}

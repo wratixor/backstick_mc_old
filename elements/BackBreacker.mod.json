@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BackBreackerWood"
+      },
+      {
+        "value": "CUSTOM:BackBreackerCopper"
+      },
+      {
+        "value": "CUSTOM:BackBreackerStone"
+      },
+      {
+        "value": "CUSTOM:BackBreackerIron"
+      },
+      {
+        "value": "CUSTOM:BackBreackerGold"
+      },
+      {
+        "value": "CUSTOM:BackBreackerDiamond"
+      },
+      {
+        "value": "CUSTOM:BackBreackerNetherite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "back_breacker",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldBackStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldBackStick"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:GoldBackStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldBackStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BackMutatorGold"
+    },
+    "name": "bm_create_gold",
+    "namespace": "mod"
+  }
+}

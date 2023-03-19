@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "backstick:netherite_back_stick"
+    },
+    "3": {
+      "item": "backstick:netherite_back_stick"
+    },
+    "4": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "5": {
+      "item": "backstick:netherite_back_stick"
+    },
+    "7": {
+      "item": "backstick:netherite_back_stick"
+    }
+  },
+  "result": {
+    "item": "backstick:back_mutator_netherite",
+    "count": 1
+  }
+}

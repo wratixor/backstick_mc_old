@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "backstick:iron_back_stick"
+    },
+    "1": {
+      "item": "backstick:iron_back_stick"
+    },
+    "2": {
+      "item": "backstick:iron_back_stick"
+    },
+    "5": {
+      "item": "backstick:iron_back_stick"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "backstick:back_engraver_iron",
+    "count": 1
+  }
+}

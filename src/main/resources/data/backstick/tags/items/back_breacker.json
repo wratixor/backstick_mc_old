@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "backstick:back_breacker_copper",
+    "backstick:back_breacker_stone",
+    "backstick:back_breacker_iron",
+    "backstick:back_breacker_netherite",
+    "backstick:back_breacker_gold",
+    "backstick:back_breacker_wood",
+    "backstick:back_breacker_diamond"
+  ]
+}
